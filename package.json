@@ -1,0 +1,15 @@
+{
+  "name": "roadmap-backend",
+  "version": "1.0.0",
+  "description": "1. Como funciona a internet?\r Pesquisar artigos e vídeos de como funciona a internet\r O que é HTTP\r Funcionamento de um browser\r DNS\r Hosting\r 2. Lógica de Programação\r Antes de ir para linguagem de programação e passar para o roadmap de qualquer uma das áreas, o ideal é que você estude a lógica de programação, que irá treinar o seu raciocínio para resolução de problemas através de pseudo códigos. Existem diversas formas de se estudar essa matéria, mas minha indicação é que você estude através de algoritmos em Portugol.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
